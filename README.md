@@ -1,81 +1,134 @@
+
 <div align="center">
 
+<!-- <img src="./profile-banner.png" alt="Dorota — Developer Profile" width="80%" /> -->
 
-<img src="./profile-banner.png" alt="Dorota — GitHub Profile" width="100%">
-
-
-# Hi, I'm Dorota.
+# Hi, I'm Dorota 👋
 
 ### WordPress Developer · PHP Developer · IT Systems Specialist
 
-**Custom web experiences. Reliable backend systems. Thoughtful engineering.**
+**Bespoke WordPress experiences. Thoughtful backend engineering. Maintainable digital solutions.**
 
-Based in Poland · Open to international freelance and remote collaboration
+Based in Poland · Open to international freelance & remote collaboration
 
-[Explore my WordPress CMS project](https://github.com/dorisdolores74/wordpress-custom-cms) · [View my repositories](https://github.com/dorisdolores74?tab=repositories)
+[![Portfolio Project](https://img.shields.io/badge/Explore_my_WordPress_CMS-142338?style=flat-square&logo=wordpress&logoColor=white)](https://github.com/dorisdolores74/wordpress-custom-cms)
+[![Repositories](https://img.shields.io/badge/View_Repositories-26354B?style=flat-square&logo=github&logoColor=white)](https://github.com/dorisdolores74?tab=repositories)
 
 </div>
 
 ---
 
-### 01 / About
+### 01 / About Me
 
-I develop bespoke WordPress solutions, PHP applications and frontend experiences, combining hands-on development with experience in enterprise IT infrastructure. I care about clean architecture, practical security, accessible interfaces and systems that remain maintainable beyond launch.
+I build custom WordPress themes, PHP applications and responsive frontend experiences.
 
-My work ranges from custom WordPress templates, administration workflows and form integrations to Java-based applications and infrastructure monitoring.
+My work combines hands-on software development with experience in enterprise IT environments, database integrations and infrastructure monitoring.
 
-### 02 / What I work on
+I favour clear architecture, practical security and solutions tailored to real business requirements — without adding dependencies simply because they are available.
 
-| Custom development | Systems & engineering |
+### 02 / Professional Focus
+
+| Web Development | Systems & Integrations |
 | :--- | :--- |
-| WordPress themes without page builders | PHP and backend application logic |
-| Structured content and custom administration | MySQL and Microsoft SQL Server |
+| Bespoke WordPress themes and content workflows | PHP application logic and REST APIs |
+| Custom CMS features using native WordPress APIs | MySQL and Microsoft SQL Server |
 | Contact Form 7 integrations and automation | Java, Spring Boot and Maven |
-| Responsive frontend, HTML, SCSS and JavaScript | Windows Server, IIS, Linux and Docker |
-| REST API and data integrations | Zabbix monitoring and diagnostics |
+| Responsive HTML, SCSS and JavaScript | Zabbix monitoring and diagnostics |
+| Accessible, maintainable interfaces | Practical Windows Server, IIS and Linux experience |
 
-### 03 / Technical toolkit
+### 03 / Technical Toolkit
 
-**CMS & backend** · WordPress · PHP · Java · Spring Boot · REST APIs
+**CMS & Backend**
 
-**Frontend** · HTML5 · CSS3 · SCSS · JavaScript · Responsive UI
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress,php,java,spring&theme=dark" alt="WordPress, PHP, Java, Spring" width="160" />
+</p>
 
-**Data & infrastructure** · MySQL · SQL Server · Docker · Linux · Windows Server · IIS · Zabbix
+**Frontend**
 
-**Workflow** · Git · GitHub · VS Code · Maven
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,bootstrap&theme=dark" alt="HTML5, CSS3, SCSS, JavaScript, Bootstrap" width="200" />
+</p>
 
-### 04 / Selected work
+**Databases & Developer Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,docker,git,github,vscode&theme=dark" alt="MySQL, Docker, Git, GitHub, VS Code" width="200" />
+</p>
+
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-Build_Tool-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
+**Infrastructure & Monitoring**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,powershell&theme=dark" alt="Linux, Ubuntu, Windows, PowerShell" width="160" />
+</p>
+
+![Zabbix](https://img.shields.io/badge/Zabbix-Monitoring-D40000?style=flat-square)
+![IIS](https://img.shields.io/badge/Microsoft_IIS-Web_Server-0078D4?style=flat-square)
+
+<sub>Linux & Windows administration: practical working knowledge.</sub>
+
+---
+
+### 04 / Certification
+
+**ITIL® Foundation**
+
+IT Service Management · Earlier version (not ITIL 4).
+
+---
+
+### 05 / Featured Project
 
 <table>
-<tr>
-<td width="100%">
-
-**[Custom WordPress CMS](https://github.com/dorisdolores74/wordpress-custom-cms)**  
-<sub>Independent portfolio project · In development</sub>
-
-A custom WordPress experience using native APIs and a bespoke content-management approach. No ACF, visual page builders or purchased theme frameworks.
-
-</td>
-</tr>
+  <tr>
+    <td>
+      <h3>
+        <a href="https://github.com/dorisdolores74/wordpress-custom-cms">
+          Custom WordPress CMS ↗
+        </a>
+      </h3>
+      <p><strong>Independent Portfolio Project · In Development</strong></p>
+      <p>
+        A custom WordPress experience using native APIs and a
+        purpose-built content management approach.
+        No ACF, visual page builders or purchased theme frameworks.
+      </p>
+      <p>
+        <code>WordPress</code>
+        <code>PHP</code>
+        <code>SCSS</code>
+        <code>JavaScript</code>
+      </p>
+    </td>
+  </tr>
 </table>
 
-> Additional professional work is not published here where it involves proprietary systems or client data.
+> Additional professional work is not published where it involves proprietary systems or client information.
 
-### 05 / My approach
+---
 
-- Build for the actual requirement rather than adding unnecessary dependencies.
+### 06 / Development Approach
+
+- Design around the actual requirement, not an oversized technology stack.
 - Keep content, presentation and business logic clearly separated.
-- Validate input, escape output and use capability-based access controls.
-- Treat accessibility, responsive behaviour and maintainability as core requirements.
-- Document decisions and make future changes easier for the next developer.
+- Validate input, escape output and apply capability-based access controls.
+- Treat accessibility, responsive design and long-term maintenance as core requirements.
+- Make technical decisions understandable through readable code and documentation.
 
-### 06 / GitHub activity
+---
 
-For current contributions and public repository activity, see my [GitHub profile](https://github.com/dorisdolores74). Private and client projects are intentionally not represented as public portfolio work.
+### 07 / GitHub & Collaboration
 
-### 07 / Collaboration
+Explore my [public repositories](https://github.com/dorisdolores74?tab=repositories) and [GitHub activity](https://github.com/dorisdolores74).
 
-I'm interested in international freelance and remote opportunities involving custom WordPress development, PHP applications, frontend implementation and technical integrations. Written communication is welcome via [GitHub](https://github.com/dorisdolores74).
+Private client and employer work is deliberately not represented as public portfolio material.
+
+I'm open to international freelance and remote opportunities involving custom WordPress development, PHP applications, frontend implementation and technical integrations.
+
+Please reach out in writing through [GitHub](https://github.com/dorisdolores74).
 
 ---
 
@@ -83,6 +136,6 @@ I'm interested in international freelance and remote opportunities involving cus
 
 **Code with purpose. Build for longevity.**
 
-<sub>© 2026 Dorota · Personal development portfolio</sub>
+<sub>© 2026 Dorota · Personal Developer Portfolio</sub>
 
 </div>
