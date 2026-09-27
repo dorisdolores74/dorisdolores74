@@ -1,96 +1,81 @@
-
 <div align="center">
 
-# Hi, I'm Dorota 👋
 
-### WordPress Developer | PHP Developer | IT Systems Specialist
+<img src="./profile-banner.png" alt="Dorota — GitHub Profile" width="100%">
 
-Building custom web solutions, secure applications
-and maintainable digital experiences.
 
-**Custom Development · Clean Architecture · Practical Engineering**
+# Hi, I'm Dorota.
 
-📍 Poland · Open to International Collaboration
+### WordPress Developer · PHP Developer · IT Systems Specialist
 
----
+**Custom web experiences. Reliable backend systems. Thoughtful engineering.**
+
+Based in Poland · Open to international freelance and remote collaboration
+
+[Explore my WordPress CMS project](https://github.com/dorisdolores74/wordpress-custom-cms) · [View my repositories](https://github.com/dorisdolores74?tab=repositories)
 
 </div>
 
-## 👩‍💻 About Me
-
-I'm a developer with experience in custom WordPress
-development, PHP applications and enterprise IT systems.
-
-My work combines frontend engineering, backend development,
-system administration and technical problem-solving.
-
-I focus on building reliable, maintainable solutions
-tailored to real business requirements.
-
 ---
 
-## 🚀 Professional Focus
+### 01 / About
 
-- Custom WordPress Theme Development
-- Bespoke CMS Architecture
-- PHP Backend Development
-- JavaScript & Frontend Engineering
-- REST API Integrations
-- Database Design & SQL
-- Infrastructure Monitoring & Automation
-- Application Security & Performance
+I develop bespoke WordPress solutions, PHP applications and frontend experiences, combining hands-on development with experience in enterprise IT infrastructure. I care about clean architecture, practical security, accessible interfaces and systems that remain maintainable beyond launch.
 
----
+My work ranges from custom WordPress templates, administration workflows and form integrations to Java-based applications and infrastructure monitoring.
 
-## 🛠️ Technical Stack
+### 02 / What I work on
 
-| Category | Technologies |
-|---|---|
-| Backend | PHP, Java, Spring Boot |
-| CMS | WordPress, Custom Themes, CF7 |
-| Frontend | HTML5, CSS3, SCSS, JavaScript |
-| Databases | MySQL, Microsoft SQL Server |
-| Infrastructure | Windows Server, IIS, Linux |
-| DevOps & Tools | Docker, Git, Maven, VS Code |
-| Monitoring | Zabbix |
+| Custom development | Systems & engineering |
+| :--- | :--- |
+| WordPress themes without page builders | PHP and backend application logic |
+| Structured content and custom administration | MySQL and Microsoft SQL Server |
+| Contact Form 7 integrations and automation | Java, Spring Boot and Maven |
+| Responsive frontend, HTML, SCSS and JavaScript | Windows Server, IIS, Linux and Docker |
+| REST API and data integrations | Zabbix monitoring and diagnostics |
 
----
+### 03 / Technical toolkit
 
-## 💡 Development Approach
+**CMS & backend** · WordPress · PHP · Java · Spring Boot · REST APIs
 
-I believe that good software should be:
+**Frontend** · HTML5 · CSS3 · SCSS · JavaScript · Responsive UI
 
-- Purpose-built rather than unnecessarily complex.
-- Secure by design.
-- Maintainable and well-structured.
-- Accessible and responsive.
-- Designed around real user requirements.
+**Data & infrastructure** · MySQL · SQL Server · Docker · Linux · Windows Server · IIS · Zabbix
 
-I enjoy creating custom solutions instead of relying
-on unnecessary third-party dependencies.
+**Workflow** · Git · GitHub · VS Code · Maven
 
----
+### 04 / Selected work
 
-## 📂 Featured Projects
+<table>
+<tr>
+<td width="100%">
 
-### Custom WordPress CMS
+**[Custom WordPress CMS](https://github.com/dorisdolores74/wordpress-custom-cms)**  
+<sub>Independent portfolio project · In development</sub>
 
-An independent portfolio project demonstrating
-custom WordPress development using native APIs.
+A custom WordPress experience using native APIs and a bespoke content-management approach. No ACF, visual page builders or purchased theme frameworks.
 
-**No ACF. No visual page builders. No purchased themes.**
+</td>
+</tr>
+</table>
 
-Status: In Development
+> Additional professional work is not published here where it involves proprietary systems or client data.
 
----
+### 05 / My approach
 
-## 🤝 Let's Connect
+- Build for the actual requirement rather than adding unnecessary dependencies.
+- Keep content, presentation and business logic clearly separated.
+- Validate input, escape output and use capability-based access controls.
+- Treat accessibility, responsive behaviour and maintainability as core requirements.
+- Document decisions and make future changes easier for the next developer.
 
-Interested in international freelance projects,
-remote collaboration and custom development opportunities.
+### 06 / GitHub activity
 
-Feel free to explore my repositories and follow
-my development work.
+For current contributions and public repository activity, see my [GitHub profile](https://github.com/dorisdolores74). Private and client projects are intentionally not represented as public portfolio work.
+
+### 07 / Collaboration
+
+I'm interested in international freelance and remote opportunities involving custom WordPress development, PHP applications, frontend implementation and technical integrations. Written communication is welcome via [GitHub](https://github.com/dorisdolores74).
 
 ---
 
@@ -98,6 +83,6 @@ my development work.
 
 **Code with purpose. Build for longevity.**
 
-© 2026 Dorota
+<sub>© 2026 Dorota · Personal development portfolio</sub>
 
 </div>
